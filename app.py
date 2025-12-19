@@ -11,7 +11,7 @@ h3 {color: #ffd700; text-align: center;}
 </style>
 """, unsafe_allow_html=True)
 
-st.image("https://i.imgur.com/YourLogoLink.jpg", use_column_width=True)  # θα βάλουμε το δικό μας logo
+st.image("https://raw.githubusercontent.com/liliansparos-creator/Soul-Guardian/main/Grok.jpg", use_column_width=True)
 
 st.title("Soul Guardian")
 st.markdown("<h3>Ὄναρ καὶ ὕπαρ</h3>", unsafe_allow_html=True)
