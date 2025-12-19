@@ -15,7 +15,7 @@ st.image("https://raw.githubusercontent.com/liliansparos-creator/Soul-Guardian/m
 
 st.title("Soul Guardian")
 st.markdown("<h3>Ὄναρ καὶ ὕπαρ</h3>", unsafe_allow_html=True)
-st.caption("Where dream meets reality – your soul finds home")
+st.image("https://raw.githubusercontent.com/liliansparos-creator/Soul-Guardian/main/Grok1.jpg", use_column_width=True)
 
 st.write("Καλώς ήρθες στο ιερό σου μέρος. Επίλεξε πώς θέλεις να μιλήσουμε σήμερα:")
 
